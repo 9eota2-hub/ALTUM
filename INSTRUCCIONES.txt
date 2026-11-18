@@ -1,0 +1,12 @@
+ALTUM MÉXICO – favicon transparente
+
+Sube los archivos de esta carpeta a la raíz del repositorio GitHub, junto a index.html.
+
+Si tu HTML tiene referencias al paquete anterior, actualiza dentro de <head> a:
+<link rel="icon" href="/favicon.ico?v=3" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=3">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=3">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=3">
+<link rel="manifest" href="/site.webmanifest">
+
+Todos los iconos PNG son transparentes.
